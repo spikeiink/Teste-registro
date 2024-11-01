@@ -1,0 +1,2 @@
+# Teste-registro
+teste/registro
